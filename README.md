@@ -3,6 +3,7 @@
 # 05 Third-Party APIs: Work Day Scheduler
 Work Day Scheduler!
 Deployed App: https://rachelrosenstein.github.io/Work-Day-Scheduler/
+Technologie used: JavaScript, CSS, HTML, Local Storage
 
 
 
